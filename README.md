@@ -8,7 +8,7 @@
   - Reading graphic novels
 - 🧐 I’m currently learning:
   - Use of Apis in projects
-  - advance position of images in CSS
+  - advance positioning of images in CSS
   - Color Theory
 
 
