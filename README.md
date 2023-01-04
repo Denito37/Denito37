@@ -8,8 +8,8 @@
   - Reading graphic novels
 - 🧐 I’m currently learning:
   - Use of Apis in projects
-  - Transitions in CSS
-  - Color Theory
+  - React JS
+  - Node JS
 
 
 <!---
