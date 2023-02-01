@@ -9,7 +9,7 @@
 - 🧐 I’m currently learning:
   - Use of Apis in projects
   - React JS
-  - Vitest
+  - TailWind CSS
 
 
 <!---
