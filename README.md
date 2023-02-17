@@ -5,6 +5,7 @@
   - Web design
   - Web developement
   - Cooking
+  - Origami
   - Reading graphic novels
 - 🧐 I’m currently learning:
   - Use of Apis in projects
