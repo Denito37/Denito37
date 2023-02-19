@@ -1,5 +1,5 @@
 - 🫡 Hi, I’m @Denito37
-  - I’m a front-end web developer with the intent of making visually appealing web designs that are easy to use for the user. 
+  - I’m a front-end web developer with the intent of making visually appealing websites that are simple to use. 
 
 - 💍 I’m interested in:
   - Web design
