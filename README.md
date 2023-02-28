@@ -2,11 +2,11 @@
   - I’m a front-end web developer with the intent of making visually appealing websites that are simple to use. 
 
 - 💍 I’m interested in:
-  - Web design
-  - Web developement
+  - Web developement & design
   - Cooking
   - Origami
   - Reading graphic novels
+
 - 🧐 I’m currently learning:
   - Use of Apis in projects
   - React JS
