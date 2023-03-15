@@ -8,7 +8,7 @@
   - Reading graphic novels
 
 - 🧐 I’m currently learning:
-  - Use of Apis in projects
+  - Next JS
   - React JS
   - TailWind CSS
 
