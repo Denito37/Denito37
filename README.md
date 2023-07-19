@@ -4,13 +4,12 @@
 - 💍 I’m interested in:
   - Web developement & design
   - Cooking
-  - Origami
   - Reading graphic novels
 
 - 🧐 I’m currently learning:
   - Next JS
   - React JS
-  - TailWind CSS
+  - 3rd party React libraries (Hook Forms, Redux, Router, SWR)
 
 
 <!---
