@@ -1,15 +1,13 @@
 - 🫡 Hi, I’m @Denito37
-  - I’m a front-end web developer with the intent of making visually appealing websites that are simple to use. 
+  - I’m a developer with the intent of strengthing my core understanding of programming. 
 
 - 💍 I’m interested in:
-  - Web developement & design
+  - developement & design
   - Cooking
   - Reading graphic novels
-
-- 🧐 I’m currently learning:
-  - Next JS
-  - React JS
-  - 3rd party React libraries (Hook Forms, Redux, Router, SWR)
+ 
+  - Currently studying
+       - Data analysis
 
 
 <!---
