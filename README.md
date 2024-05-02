@@ -6,8 +6,8 @@
   - Cooking
   - Reading graphic novels
  
-  - Currently studying
-       - Data analysis
+ - Currently studying
+    - Data analysis
 
 
 <!---
