@@ -1,8 +1,8 @@
 - 🫡 Hi, I’m @Denito37
-  - I’m a developer with the intent of strengthing my core understanding of programming. 
+  - I’m a developer with the intent of strengthing my core understanding of programming & data analysis. 
 
 - 💍 I’m interested in:
-  - developement & design
+  - development & design
   - Cooking
   - Reading graphic novels
  
