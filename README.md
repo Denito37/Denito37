@@ -1,13 +1,13 @@
 - 🫡 Hi, I’m @Denito37
-  - I’m a developer with the intent of strengthing my ablities in developing software.
+  - I’m a developer strengthing my ablities in developing software.
 
 - 💍 I’m interested in:
-  - development & design
+  - Software development & design
   - Cooking
   - Reading graphic novels
  
  - Currently studying
-    - SQL
+    - Backend with fastAPI
 
 
 <!---
