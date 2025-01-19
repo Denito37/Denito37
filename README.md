@@ -1,5 +1,5 @@
-- 🫡 Hi, I’m @Denito37
-  - I’m a developer strengthing my ablities in developing software.
+- 🫡 Hello, I’m Dennes
+  - I’m a computer science student strengthing my ablities in developing software.
 
 - 💍 I’m interested in:
   - Software development & design
@@ -7,7 +7,7 @@
   - Reading graphic novels
  
  - Currently studying
-    - Backend with fastAPI
+    - Backend development with fast API
 
 
 <!---
