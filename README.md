@@ -1,13 +1,9 @@
 - 🫡 Hello, I’m Dennes
-  - I’m a computer science student strengthing my ablities in developing software.
-
-- 💍 I’m interested in:
-  - Software development & design
-  - Cooking
-  - Reading graphic novels
+  - I’m a computer science student strengthing my ablities in developing web applications.
  
  - Currently studying
     - Backend development with fast API
+    - Using Docker & GH Actions
 
 
 <!---
