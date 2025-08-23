@@ -1,8 +1,8 @@
 - 🫡 Hello, I’m Dennes
-  - I’m a computer science student strengthing my ablities in developing web applications.
+  - I’m a computer science student strengthening my abilities in developing web applications.
  
  - Currently studying
-    - Backend development with fast API
+    - Rest API development
     - Using Docker & GH Actions
 
 
