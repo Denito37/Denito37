@@ -1,9 +1,10 @@
 - 🫡 Hello, I’m Dennes
-  - I’m a computer science student strengthening my abilities in developing web applications.
+  - I’m a computer science student strengthening my abilities in data engineering & applied machine learning.
  
- - Currently studying
-    - Rest API development
-    - Using Docker & GH Actions
+- Currently learning
+  - CI/CD
+  - ML concepts : (regression, clustering, classification)
+  - Cloud technologies
 
 
 <!---
