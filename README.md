@@ -1,10 +1,10 @@
 - 🫡 Hello, I’m Dennes
-  - I’m a computer science student strengthening my abilities in data engineering & applied machine learning.
+  - I’m a computer science student strengthening my abilities in data engineering.
  
 - Currently learning
   - CI/CD
   - ML concepts : (regression, clustering, classification)
-  - Cloud technologies
+  - Cloud technologies : (AWS Compute & database services)
 
 
 <!---
